@@ -1,1 +1,4 @@
 # cassandra
+
+What is Cassandra ?
+Apache Cassandra is a scalable and robust open-source NoSQL database designed to handle vast amounts of distributed data without compromising on performance or availability.
